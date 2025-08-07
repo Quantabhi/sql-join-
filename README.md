@@ -10,12 +10,12 @@
 
 
 ### <img src="https://media.giphy.com/media/wvQIqJyNBOCjK/giphy.gif" width="80"/>  
-**Day 1** — 🗓️ *Updated on: 2025-08-06*
+🗓️ *Updated on: 2025-08-07*
 
 | # | Question | Solution |
 |--|----------|----------|
 | 1 | Display all staff members with their store location (city) in the `dvdrental` database. | [`test.sql`](test.sql) |
 | 2 | List the first and last names of all customers along with their city name in the `dvdrental` database. | [`test2.sql`](test2.sql) |
-
+| 3 |  Get all customers from the city "Austin" in the `dvdrental` database. | [`where.sql`](where.sql) |
 
 
