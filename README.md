@@ -4,9 +4,9 @@
 
 
 <div align="center">
-  
-# My SQL Learning Journey 📘
+  <h1>My SQL Learning Journey <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjllZWZsdHY1djEyYWZyczljb2gxc2puOTBhdDlzazBzcGUyNDllcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT77Y1T0zY1gR5qe5O/giphy.gif" width="50"/></h1>
 </div>
+
 
 
 ### <img src="https://media.giphy.com/media/wvQIqJyNBOCjK/giphy.gif" width="80"/>  
